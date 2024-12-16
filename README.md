@@ -66,10 +66,6 @@ TIMING DIGRAMS FOR FLIP FLOPS
 
 ![Screenshot 2024-12-16 195447](https://github.com/user-attachments/assets/600db867-1fea-40de-9d31-217c8774082e)
 
-
 RESULTS Encoder implemented successfully SR-FLIPFLOP-USING-CASE verified.
 
 
-
-
-**RESULTS**
